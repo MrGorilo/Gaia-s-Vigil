@@ -1,0 +1,1447 @@
+fileFormatVersion: 2
+guid: 3e18887ca13098f4d8654406ede1215e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 204210139234217188
+    second: "Somnia movimiento andar gu\xEDa para Unity 1_0"
+  - first:
+      213: -8300968203582661259
+    second: "Somnia movimiento andar gu\xEDa para Unity 1_1"
+  - first:
+      213: 905985989368293187
+    second: "Somnia movimiento andar gu\xEDa para Unity 1_2"
+  - first:
+      213: 6844446812474103253
+    second: "Somnia movimiento andar gu\xEDa para Unity 1_3"
+  - first:
+      213: -5682719287532614682
+    second: "Somnia movimiento andar gu\xEDa para Unity 1_4"
+  - first:
+      213: -3070468659018241012
+    second: "Somnia movimiento andar gu\xEDa para Unity 1_5"
+  - first:
+      213: 3069410069837703945
+    second: "Somnia movimiento andar gu\xEDa para Unity 1_6"
+  - first:
+      213: -3222378014300359048
+    second: "Somnia movimiento andar gu\xEDa para Unity 1_7"
+  - first:
+      213: 213888523583156396
+    second: "Somnia movimiento andar gu\xEDa para Unity 1_8"
+  - first:
+      213: 3841293417745552685
+    second: "Somnia movimiento andar gu\xEDa para Unity 1_9"
+  - first:
+      213: 62425267725802184
+    second: "Somnia movimiento andar gu\xEDa para Unity 1_10"
+  - first:
+      213: 8586896750153635178
+    second: "Somnia movimiento andar gu\xEDa para Unity 1_11"
+  - first:
+      213: -1799460185091374829
+    second: "Somnia movimiento andar gu\xEDa para Unity 1_12"
+  - first:
+      213: 7308671802210198651
+    second: "Somnia movimiento andar gu\xEDa para Unity 1_13"
+  - first:
+      213: 1086341605781976008
+    second: "Somnia movimiento andar gu\xEDa para Unity 1_14"
+  - first:
+      213: 3955244598369841556
+    second: "Somnia movimiento andar gu\xEDa para Unity 1_15"
+  - first:
+      213: 5953184396804305806
+    second: "Somnia movimiento andar gu\xEDa para Unity 1_16"
+  - first:
+      213: 5896062452286894662
+    second: "Somnia movimiento andar gu\xEDa para Unity 1_17"
+  - first:
+      213: -6503037594589192380
+    second: "Somnia movimiento andar gu\xEDa para Unity 1_18"
+  - first:
+      213: -7997232340111381488
+    second: "Somnia movimiento andar gu\xEDa para Unity 1_19"
+  - first:
+      213: 6955823572064688553
+    second: "Somnia movimiento andar gu\xEDa para Unity 1_20"
+  - first:
+      213: -6853784687029944134
+    second: "Somnia movimiento andar gu\xEDa para Unity 1_21"
+  - first:
+      213: 5975856431443113152
+    second: "Somnia movimiento andar gu\xEDa para Unity 1_22"
+  - first:
+      213: 1782279256859781715
+    second: "Somnia movimiento andar gu\xEDa para Unity 1_23"
+  - first:
+      213: 8053923720211944539
+    second: "Somnia movimiento andar gu\xEDa para Unity 1_24"
+  - first:
+      213: 6028270590752526062
+    second: "Somnia movimiento andar gu\xEDa para Unity 1_25"
+  - first:
+      213: 7177659539869555319
+    second: "Somnia movimiento andar gu\xEDa para Unity 1_26"
+  - first:
+      213: 4675265462386191395
+    second: "Somnia movimiento andar gu\xEDa para Unity 1_27"
+  - first:
+      213: 3125469072548036124
+    second: "Somnia movimiento andar gu\xEDa para Unity 1_28"
+  - first:
+      213: 7300585215437171079
+    second: "Somnia movimiento andar gu\xEDa para Unity 1_29"
+  - first:
+      213: -5101136718279059330
+    second: "Somnia movimiento andar gu\xEDa para Unity 1_30"
+  - first:
+      213: 7789943806168422685
+    second: "Somnia movimiento andar gu\xEDa para Unity 1_31"
+  - first:
+      213: 4977293803987126669
+    second: "Somnia movimiento andar gu\xEDa para Unity 1_32"
+  - first:
+      213: 3612158343778355147
+    second: "Somnia movimiento andar gu\xEDa para Unity 1_33"
+  - first:
+      213: -9220327054865953994
+    second: "Somnia movimiento andar gu\xEDa para Unity 1_34"
+  - first:
+      213: 7708682903116126942
+    second: "Somnia movimiento andar gu\xEDa para Unity 1_35"
+  - first:
+      213: -7307522219699873502
+    second: "Somnia movimiento andar gu\xEDa para Unity 1_36"
+  - first:
+      213: -7811264284366066310
+    second: "Somnia movimiento andar gu\xEDa para Unity 1_37"
+  - first:
+      213: 2349790932018925089
+    second: "Somnia movimiento andar gu\xEDa para Unity 1_38"
+  - first:
+      213: -1863026574680565752
+    second: "Somnia movimiento andar gu\xEDa para Unity 1_39"
+  - first:
+      213: -9176431655577399465
+    second: "Somnia movimiento andar gu\xEDa para Unity 1_40"
+  - first:
+      213: -5868537469461234790
+    second: "Somnia movimiento andar gu\xEDa para Unity 1_41"
+  - first:
+      213: -2373112824935153985
+    second: "Somnia movimiento andar gu\xEDa para Unity 1_42"
+  - first:
+      213: 2382857158361991487
+    second: "Somnia movimiento andar gu\xEDa para Unity 1_43"
+  - first:
+      213: 8172197289904216159
+    second: "Somnia movimiento andar gu\xEDa para Unity 1_44"
+  - first:
+      213: -3901978004184779928
+    second: "Somnia movimiento andar gu\xEDa para Unity 1_45"
+  - first:
+      213: -8660456373394964949
+    second: "Somnia movimiento andar gu\xEDa para Unity 1_46"
+  - first:
+      213: -3584786020851443933
+    second: "Somnia movimiento andar gu\xEDa para Unity 1_47"
+  - first:
+      213: 5546072145916030733
+    second: "Somnia movimiento andar gu\xEDa para Unity 1_48"
+  - first:
+      213: -9091016529429041957
+    second: "Somnia movimiento andar gu\xEDa para Unity 1_49"
+  - first:
+      213: 3264391297291067467
+    second: "Somnia movimiento andar gu\xEDa para Unity 1_50"
+  - first:
+      213: 4902848401950815033
+    second: "Somnia movimiento andar gu\xEDa para Unity 1_51"
+  - first:
+      213: -3009820376484178661
+    second: "Somnia movimiento andar gu\xEDa para Unity 1_52"
+  - first:
+      213: -8674619864930989052
+    second: "Somnia movimiento andar gu\xEDa para Unity 1_53"
+  - first:
+      213: 8467343032133159594
+    second: "Somnia movimiento andar gu\xEDa para Unity 1_54"
+  - first:
+      213: 6672548460766225335
+    second: "Somnia movimiento andar gu\xEDa para Unity 1_55"
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Somnia movimiento andar gu\xEDa para Unity 1_0"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 290
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78abdd580328b74aaec892f8f9b9c20
+      internalID: 204210139234217188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Somnia movimiento andar gu\xEDa para Unity 1_1"
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 290
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca3cf8a9d3c7b443925074a363c4601
+      internalID: -8300968203582661259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Somnia movimiento andar gu\xEDa para Unity 1_2"
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 290
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893d5d6b1e056144d9eb4cbce68b5bf0
+      internalID: 905985989368293187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Somnia movimiento andar gu\xEDa para Unity 1_3"
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 290
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c97d7d5ef6fca47834cd300fa06b2c
+      internalID: 6844446812474103253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Somnia movimiento andar gu\xEDa para Unity 1_4"
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 290
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975b5860657176c46804a3d27c11629b
+      internalID: -5682719287532614682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Somnia movimiento andar gu\xEDa para Unity 1_5"
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 290
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb14c90f7be0524b8cb616c98e20d4e
+      internalID: -3070468659018241012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Somnia movimiento andar gu\xEDa para Unity 1_6"
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 290
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86674afc4a7c00a42ab2b050ba33ef6e
+      internalID: 3069410069837703945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Somnia movimiento andar gu\xEDa para Unity 1_7"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 249
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aed6a7b1bdc888409a51db0a91fe09a
+      internalID: -3222378014300359048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Somnia movimiento andar gu\xEDa para Unity 1_8"
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 249
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea650d3d6f7e5a4899c91f8d815a29d
+      internalID: 213888523583156396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Somnia movimiento andar gu\xEDa para Unity 1_9"
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 249
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864066c664576b94ea6acce7cffff76c
+      internalID: 3841293417745552685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Somnia movimiento andar gu\xEDa para Unity 1_10"
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 249
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdeeecdf065a534598754805d96444c
+      internalID: 62425267725802184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Somnia movimiento andar gu\xEDa para Unity 1_11"
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 249
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f690672903b1dc40980da48fa40f880
+      internalID: 8586896750153635178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Somnia movimiento andar gu\xEDa para Unity 1_12"
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 249
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7937a3efa3c7448a57ec2b674b5ba3
+      internalID: -1799460185091374829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Somnia movimiento andar gu\xEDa para Unity 1_13"
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 249
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5190036160377746bc1e3afdb9b04d5
+      internalID: 7308671802210198651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Somnia movimiento andar gu\xEDa para Unity 1_14"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 208
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22fb8fb592ea0a74ca046af1a65bf280
+      internalID: 1086341605781976008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Somnia movimiento andar gu\xEDa para Unity 1_15"
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 208
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60320a67f97719242b9ca7bed397b9be
+      internalID: 3955244598369841556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Somnia movimiento andar gu\xEDa para Unity 1_16"
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 208
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34ad76f45c394c459840fde8f064f47
+      internalID: 5953184396804305806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Somnia movimiento andar gu\xEDa para Unity 1_17"
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 208
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3017fa3ace2829e418fda4f29d546397
+      internalID: 5896062452286894662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Somnia movimiento andar gu\xEDa para Unity 1_18"
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 208
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c060e628f035e5041a401784f2d633c8
+      internalID: -6503037594589192380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Somnia movimiento andar gu\xEDa para Unity 1_19"
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 208
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56847148afb16f409f0b386f429e3fd
+      internalID: -7997232340111381488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Somnia movimiento andar gu\xEDa para Unity 1_20"
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 208
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8314723a6de78af48ae9dbf1eb2ef6bd
+      internalID: 6955823572064688553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Somnia movimiento andar gu\xEDa para Unity 1_21"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 167
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401651af54e1fc54ca01ff03fb42bf59
+      internalID: -6853784687029944134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Somnia movimiento andar gu\xEDa para Unity 1_22"
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 167
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd50140287a8beb499fd7b24c9e8b013
+      internalID: 5975856431443113152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Somnia movimiento andar gu\xEDa para Unity 1_23"
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 167
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e862bb92a51a548b809fa160e19566
+      internalID: 1782279256859781715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Somnia movimiento andar gu\xEDa para Unity 1_24"
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 167
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a196521deded90742a2341dfc5517a3d
+      internalID: 8053923720211944539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Somnia movimiento andar gu\xEDa para Unity 1_25"
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 167
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f421c464bd4fa5b4289f25f55b75307b
+      internalID: 6028270590752526062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Somnia movimiento andar gu\xEDa para Unity 1_26"
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 167
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf45efeb9765bad4bb6c87e51f2de51a
+      internalID: 7177659539869555319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Somnia movimiento andar gu\xEDa para Unity 1_27"
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 167
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb5d82725e42e6418dee0b722a79f93
+      internalID: 4675265462386191395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Somnia movimiento andar gu\xEDa para Unity 1_28"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 126
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525bde8531ebae942bcb669dad0fda09
+      internalID: 3125469072548036124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Somnia movimiento andar gu\xEDa para Unity 1_29"
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 126
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8585a0050c360b4ea4df9f1e391aaed
+      internalID: 7300585215437171079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Somnia movimiento andar gu\xEDa para Unity 1_30"
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 126
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee5023ea53c2eb4e97a85ac3357ba3b
+      internalID: -5101136718279059330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Somnia movimiento andar gu\xEDa para Unity 1_31"
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 126
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33fb68472c42f04eb708ec3ffeddb68
+      internalID: 7789943806168422685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Somnia movimiento andar gu\xEDa para Unity 1_32"
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 126
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca7df66d03c1d74d9b4c0003a2d655a
+      internalID: 4977293803987126669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Somnia movimiento andar gu\xEDa para Unity 1_33"
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 126
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6655a9ec7ea38664fb07f28141cb570e
+      internalID: 3612158343778355147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Somnia movimiento andar gu\xEDa para Unity 1_34"
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 126
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f71594d0b72663449f088d4e49f454c
+      internalID: -9220327054865953994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Somnia movimiento andar gu\xEDa para Unity 1_35"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 85
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c447dafa918ba34b848a69bdbee9639
+      internalID: 7708682903116126942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Somnia movimiento andar gu\xEDa para Unity 1_36"
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 85
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14841dbcabdb18f4da9420768b70d24f
+      internalID: -7307522219699873502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Somnia movimiento andar gu\xEDa para Unity 1_37"
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 85
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128563ba4d902804d8b10ae27783284b
+      internalID: -7811264284366066310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Somnia movimiento andar gu\xEDa para Unity 1_38"
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 85
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4419f396609264c9e60ea28e47e1b5
+      internalID: 2349790932018925089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Somnia movimiento andar gu\xEDa para Unity 1_39"
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 85
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fac0602c6c95d34d8ab39c8fb152ce4
+      internalID: -1863026574680565752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Somnia movimiento andar gu\xEDa para Unity 1_40"
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 85
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b9d93deefc37942a7ce4497a8e377c
+      internalID: -9176431655577399465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Somnia movimiento andar gu\xEDa para Unity 1_41"
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 85
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87106c97bf066d24b9a72d59d94af93b
+      internalID: -5868537469461234790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Somnia movimiento andar gu\xEDa para Unity 1_42"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 44
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b034ec04bd172d47b381c81cfeff284
+      internalID: -2373112824935153985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Somnia movimiento andar gu\xEDa para Unity 1_43"
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 44
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6c8adeb94eee44aa0870a7853e7f3f
+      internalID: 2382857158361991487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Somnia movimiento andar gu\xEDa para Unity 1_44"
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 44
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449690ff765cd5449a70fd7fae123eb9
+      internalID: 8172197289904216159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Somnia movimiento andar gu\xEDa para Unity 1_45"
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 44
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7462a98336e75b4ba75f1839803af46
+      internalID: -3901978004184779928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Somnia movimiento andar gu\xEDa para Unity 1_46"
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 44
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a456dc414de4b446bdd0ad19a07f9d1
+      internalID: -8660456373394964949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Somnia movimiento andar gu\xEDa para Unity 1_47"
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 44
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f004098ba080a8a48a5d3b8a46b49323
+      internalID: -3584786020851443933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Somnia movimiento andar gu\xEDa para Unity 1_48"
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 44
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f8b1a8a5e8c324d8ddeb253673151b
+      internalID: 5546072145916030733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Somnia movimiento andar gu\xEDa para Unity 1_49"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db87e4aec4d3a0047b2c06ac6a30e6dc
+      internalID: -9091016529429041957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Somnia movimiento andar gu\xEDa para Unity 1_50"
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 3
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4efc61045ccf8f4488532a08aef8fde7
+      internalID: 3264391297291067467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Somnia movimiento andar gu\xEDa para Unity 1_51"
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 3
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e3e86dbb5adc74981b9126692d575f
+      internalID: 4902848401950815033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Somnia movimiento andar gu\xEDa para Unity 1_52"
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 3
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9702f9fda1e2e44bbf725f25b0a78f6
+      internalID: -3009820376484178661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Somnia movimiento andar gu\xEDa para Unity 1_53"
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 3
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5327a110a2978d142a065489c78241cf
+      internalID: -8674619864930989052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Somnia movimiento andar gu\xEDa para Unity 1_54"
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 3
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34642d207ba602d4c9bb5bc372c7e53f
+      internalID: 8467343032133159594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Somnia movimiento andar gu\xEDa para Unity 1_55"
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 3
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ee1710e00c2ba4ea76afaecbeb09ae
+      internalID: 6672548460766225335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

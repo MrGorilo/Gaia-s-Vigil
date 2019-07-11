@@ -1,0 +1,1447 @@
+fileFormatVersion: 2
+guid: 1770eb344695f424bbc505dfcea367f4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5001027685760008187
+    second: Somnia movimiento andar expandido sombras_0
+  - first:
+      213: -7065432742669708416
+    second: Somnia movimiento andar expandido sombras_1
+  - first:
+      213: 6259168757102182305
+    second: Somnia movimiento andar expandido sombras_2
+  - first:
+      213: 9210547210616525195
+    second: Somnia movimiento andar expandido sombras_3
+  - first:
+      213: -1286739731103594434
+    second: Somnia movimiento andar expandido sombras_4
+  - first:
+      213: 1253537860234982463
+    second: Somnia movimiento andar expandido sombras_5
+  - first:
+      213: 3702366259930042114
+    second: Somnia movimiento andar expandido sombras_6
+  - first:
+      213: 2121503510065380863
+    second: Somnia movimiento andar expandido sombras_7
+  - first:
+      213: 5653216169649530704
+    second: Somnia movimiento andar expandido sombras_8
+  - first:
+      213: 6924379574395897569
+    second: Somnia movimiento andar expandido sombras_9
+  - first:
+      213: -2115385032605593517
+    second: Somnia movimiento andar expandido sombras_10
+  - first:
+      213: -1101053684461612422
+    second: Somnia movimiento andar expandido sombras_11
+  - first:
+      213: 5528754438634006848
+    second: Somnia movimiento andar expandido sombras_12
+  - first:
+      213: -899390670664035192
+    second: Somnia movimiento andar expandido sombras_13
+  - first:
+      213: -4610406293633476239
+    second: Somnia movimiento andar expandido sombras_14
+  - first:
+      213: -5032890110416904106
+    second: Somnia movimiento andar expandido sombras_15
+  - first:
+      213: -2832160543610686620
+    second: Somnia movimiento andar expandido sombras_16
+  - first:
+      213: 8391764803938737789
+    second: Somnia movimiento andar expandido sombras_17
+  - first:
+      213: 1037031495421128528
+    second: Somnia movimiento andar expandido sombras_18
+  - first:
+      213: -348784746536647070
+    second: Somnia movimiento andar expandido sombras_19
+  - first:
+      213: -1273604003625162488
+    second: Somnia movimiento andar expandido sombras_20
+  - first:
+      213: -4512432845767284361
+    second: Somnia movimiento andar expandido sombras_21
+  - first:
+      213: 2164376536382584411
+    second: Somnia movimiento andar expandido sombras_22
+  - first:
+      213: -890925032779571432
+    second: Somnia movimiento andar expandido sombras_23
+  - first:
+      213: -5071728839757078052
+    second: Somnia movimiento andar expandido sombras_24
+  - first:
+      213: 7946198111200914653
+    second: Somnia movimiento andar expandido sombras_25
+  - first:
+      213: 4185266512488708526
+    second: Somnia movimiento andar expandido sombras_26
+  - first:
+      213: -486382253453956132
+    second: Somnia movimiento andar expandido sombras_27
+  - first:
+      213: -4775751907033412656
+    second: Somnia movimiento andar expandido sombras_28
+  - first:
+      213: -6301618033539019578
+    second: Somnia movimiento andar expandido sombras_29
+  - first:
+      213: -8505912293354774294
+    second: Somnia movimiento andar expandido sombras_30
+  - first:
+      213: 2391521682108834883
+    second: Somnia movimiento andar expandido sombras_31
+  - first:
+      213: -5201925012388088241
+    second: Somnia movimiento andar expandido sombras_32
+  - first:
+      213: 6553421771600997830
+    second: Somnia movimiento andar expandido sombras_33
+  - first:
+      213: -7815433511865857283
+    second: Somnia movimiento andar expandido sombras_34
+  - first:
+      213: -1523360104345270536
+    second: Somnia movimiento andar expandido sombras_35
+  - first:
+      213: -6250712771974869754
+    second: Somnia movimiento andar expandido sombras_36
+  - first:
+      213: 3603946878120964204
+    second: Somnia movimiento andar expandido sombras_37
+  - first:
+      213: 6126499814426921913
+    second: Somnia movimiento andar expandido sombras_38
+  - first:
+      213: -8178848536122450085
+    second: Somnia movimiento andar expandido sombras_39
+  - first:
+      213: -8899461995240689259
+    second: Somnia movimiento andar expandido sombras_40
+  - first:
+      213: -4106198794711266364
+    second: Somnia movimiento andar expandido sombras_41
+  - first:
+      213: 4727760670422028654
+    second: Somnia movimiento andar expandido sombras_42
+  - first:
+      213: 3205578246646323839
+    second: Somnia movimiento andar expandido sombras_43
+  - first:
+      213: 4005754386385384383
+    second: Somnia movimiento andar expandido sombras_44
+  - first:
+      213: -4188423503490753099
+    second: Somnia movimiento andar expandido sombras_45
+  - first:
+      213: 7167705201369895709
+    second: Somnia movimiento andar expandido sombras_46
+  - first:
+      213: -6111800446276556281
+    second: Somnia movimiento andar expandido sombras_47
+  - first:
+      213: -3081510081420110983
+    second: Somnia movimiento andar expandido sombras_48
+  - first:
+      213: -465763407151688097
+    second: Somnia movimiento andar expandido sombras_49
+  - first:
+      213: 6789536111344144676
+    second: Somnia movimiento andar expandido sombras_50
+  - first:
+      213: 2377724261923896237
+    second: Somnia movimiento andar expandido sombras_51
+  - first:
+      213: 1805961198209725309
+    second: Somnia movimiento andar expandido sombras_52
+  - first:
+      213: -2979450299860329367
+    second: Somnia movimiento andar expandido sombras_53
+  - first:
+      213: 6734932494587798755
+    second: Somnia movimiento andar expandido sombras_54
+  - first:
+      213: 7207740484410581015
+    second: Somnia movimiento andar expandido sombras_55
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Somnia movimiento andar expandido sombras_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 289
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2788561ee4536c43a1998eeaae9bd67
+      internalID: -5001027685760008187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento andar expandido sombras_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 289
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9cf77d214b723c429dce2750982623e
+      internalID: -7065432742669708416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento andar expandido sombras_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 289
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d4eca0f9aecc649997fa119933ddcd
+      internalID: 6259168757102182305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento andar expandido sombras_3
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 289
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b987c1cf70ec547b6b1cee7109868c
+      internalID: 9210547210616525195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento andar expandido sombras_4
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 289
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9ca8b5f77d0214cb96ddbcac193534
+      internalID: -1286739731103594434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento andar expandido sombras_5
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 289
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5cf932fee637848a958007c5f105da
+      internalID: 1253537860234982463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento andar expandido sombras_6
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 289
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a077603652d2f814b8477e3b32301517
+      internalID: 3702366259930042114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento andar expandido sombras_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 248
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07db2dd6a0d9774eb88f3b53e8e3bdf
+      internalID: 2121503510065380863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento andar expandido sombras_8
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 248
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e06091bbc879cb4395eb40f7a36872e
+      internalID: 5653216169649530704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento andar expandido sombras_9
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 248
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5c527fd131a6e4781cdbc39b27b7e9
+      internalID: 6924379574395897569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento andar expandido sombras_10
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 248
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59029b80ff17bed47915966907b0bb2e
+      internalID: -2115385032605593517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento andar expandido sombras_11
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 248
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98636c3ecbe55e4ba43ee67710715c6
+      internalID: -1101053684461612422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento andar expandido sombras_12
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 248
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ef60cae5554194b8c94e39390152a5
+      internalID: 5528754438634006848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento andar expandido sombras_13
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 248
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f66911476d18745a39c928fe2ba7ab
+      internalID: -899390670664035192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento andar expandido sombras_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 207
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14420a116ed6d6e4aa02c9793170f804
+      internalID: -4610406293633476239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento andar expandido sombras_15
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 207
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f195cf2c5ad0aa409ce070c9b76a6ea
+      internalID: -5032890110416904106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento andar expandido sombras_16
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 207
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8607dffec477b00478c105fe628432e4
+      internalID: -2832160543610686620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento andar expandido sombras_17
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 207
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8166794b320f36408bb0d347098153b
+      internalID: 8391764803938737789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento andar expandido sombras_18
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 207
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73807e1a78075294783fa9a9e31e07c7
+      internalID: 1037031495421128528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento andar expandido sombras_19
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 207
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f19d05034f8d444e954e0c44414b658
+      internalID: -348784746536647070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento andar expandido sombras_20
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 207
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87bd3420e9fd574595420f1139af33c
+      internalID: -1273604003625162488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento andar expandido sombras_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 166
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648c977c302b5a74e8b6c3a8ec6049ad
+      internalID: -4512432845767284361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento andar expandido sombras_22
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 166
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657b239e08a073343abf17f96c8fe07e
+      internalID: 2164376536382584411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento andar expandido sombras_23
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 166
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba61d5c1f79308b4788086d9a3c8d01d
+      internalID: -890925032779571432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento andar expandido sombras_24
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 166
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3281c156c68a6314e8d27db34c95613a
+      internalID: -5071728839757078052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento andar expandido sombras_25
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 166
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb004f4cb3ee3b44d8912cf04ebdcf7f
+      internalID: 7946198111200914653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento andar expandido sombras_26
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 166
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7817b7911b82640ba5faf4c8ad7c0b
+      internalID: 4185266512488708526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento andar expandido sombras_27
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 166
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5570ea06b7535224d8bd5a51cefcb497
+      internalID: -486382253453956132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento andar expandido sombras_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 125
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45befd1f7271a6948be3bc7bb8760704
+      internalID: -4775751907033412656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento andar expandido sombras_29
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 125
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56050d955fdd5824087cd5ca5abcf2c8
+      internalID: -6301618033539019578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento andar expandido sombras_30
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 125
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97361de39aacd4041b400039e97e7885
+      internalID: -8505912293354774294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento andar expandido sombras_31
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 125
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59a0db18cf315f468cdfbf63d49bb43
+      internalID: 2391521682108834883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento andar expandido sombras_32
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 125
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c99f71f288bda49ac4590ad301b0a5
+      internalID: -5201925012388088241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento andar expandido sombras_33
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 125
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c794c1efff69304da0e441e62d5796d
+      internalID: 6553421771600997830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento andar expandido sombras_34
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 125
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413ba70704d7a0f42a842009270c3bb9
+      internalID: -7815433511865857283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento andar expandido sombras_35
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 84
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3209ad86deb944b93808176de0d25b
+      internalID: -1523360104345270536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento andar expandido sombras_36
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 84
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b37b0c9606ff54a8334d7e378b4e91
+      internalID: -6250712771974869754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento andar expandido sombras_37
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 84
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cf0fcbcc3abcf40a4bf10f0f91c041
+      internalID: 3603946878120964204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento andar expandido sombras_38
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 84
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6974848d0ae59542b6db490dda3dfb1
+      internalID: 6126499814426921913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento andar expandido sombras_39
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 84
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55db8d276a6d5a428041e18b62d109c
+      internalID: -8178848536122450085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento andar expandido sombras_40
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 84
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9524907e780c16948a040bf3b88a370f
+      internalID: -8899461995240689259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento andar expandido sombras_41
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 84
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebcd7950be16a04093528fb009dd265
+      internalID: -4106198794711266364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento andar expandido sombras_42
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 43
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ffed32e18e10347bdb60be21e9f13a
+      internalID: 4727760670422028654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento andar expandido sombras_43
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 43
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f76370a76c464848b6de23af66bf3bc
+      internalID: 3205578246646323839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento andar expandido sombras_44
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 43
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1156d7343ed8b144eae1eff2f6eaf65d
+      internalID: 4005754386385384383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento andar expandido sombras_45
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 43
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75a1379427a83f4f8e8b49b7f07ea54
+      internalID: -4188423503490753099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento andar expandido sombras_46
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 43
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8906cd6cc3762042938e7a838456ff6
+      internalID: 7167705201369895709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento andar expandido sombras_47
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 43
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b26e6873f6b2014795c1707d88627d9
+      internalID: -6111800446276556281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento andar expandido sombras_48
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 43
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a635b603994f5048a5a8923a3da3ca1
+      internalID: -3081510081420110983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento andar expandido sombras_49
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb33dcd2be7209b40b990929f733abb4
+      internalID: -465763407151688097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento andar expandido sombras_50
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 2
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9aadfb55a5ff9419354968fa9620c6
+      internalID: 6789536111344144676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento andar expandido sombras_51
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8e2265ff0ef8441913120134c65a7b
+      internalID: 2377724261923896237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento andar expandido sombras_52
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 2
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8100d3bf46879d47a1e1c6e2d5792aa
+      internalID: 1805961198209725309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento andar expandido sombras_53
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 2
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438a2460a8a30f242873e57f63cea1e3
+      internalID: -2979450299860329367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento andar expandido sombras_54
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8563b7dc72770804b9f31a03519c1a72
+      internalID: 6734932494587798755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento andar expandido sombras_55
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 2
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e66d89ab72ae24ba1a7c8b63908995
+      internalID: 7207740484410581015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

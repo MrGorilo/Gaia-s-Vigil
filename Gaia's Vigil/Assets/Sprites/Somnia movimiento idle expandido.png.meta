@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: 253202c8f96d44641846c34bea4a8af5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6753451152031479499
+    second: Somnia movimiento idle expandido_0
+  - first:
+      213: 4536909391326444940
+    second: Somnia movimiento idle expandido_1
+  - first:
+      213: 4248804424923303493
+    second: Somnia movimiento idle expandido_2
+  - first:
+      213: 7719241278053989004
+    second: Somnia movimiento idle expandido_3
+  - first:
+      213: -2398978304228333487
+    second: Somnia movimiento idle expandido_4
+  - first:
+      213: 3738614720397407119
+    second: Somnia movimiento idle expandido_5
+  - first:
+      213: 1892467431810707702
+    second: Somnia movimiento idle expandido_6
+  - first:
+      213: 8270775804398330666
+    second: Somnia movimiento idle expandido_7
+  - first:
+      213: 4073976668799867017
+    second: Somnia movimiento idle expandido_8
+  - first:
+      213: 1080843484593829565
+    second: Somnia movimiento idle expandido_9
+  - first:
+      213: -4330246886187428517
+    second: Somnia movimiento idle expandido_10
+  - first:
+      213: 7407179514067875847
+    second: Somnia movimiento idle expandido_11
+  - first:
+      213: -3285288355808692158
+    second: Somnia movimiento idle expandido_12
+  - first:
+      213: -4113265550427266664
+    second: Somnia movimiento idle expandido_13
+  - first:
+      213: 1399920830376251301
+    second: Somnia movimiento idle expandido_14
+  - first:
+      213: 202690477737058844
+    second: Somnia movimiento idle expandido_15
+  - first:
+      213: 8496286721541541734
+    second: Somnia movimiento idle expandido_16
+  - first:
+      213: 4984342684397856922
+    second: Somnia movimiento idle expandido_17
+  - first:
+      213: 5976593342215260888
+    second: Somnia movimiento idle expandido_18
+  - first:
+      213: 5613766781539266787
+    second: Somnia movimiento idle expandido_19
+  - first:
+      213: 8315307830595252825
+    second: Somnia movimiento idle expandido_20
+  - first:
+      213: 2195251599350695746
+    second: Somnia movimiento idle expandido_21
+  - first:
+      213: 4520229643456638459
+    second: Somnia movimiento idle expandido_22
+  - first:
+      213: 2519583998964397266
+    second: Somnia movimiento idle expandido_23
+  - first:
+      213: -1622123293132183116
+    second: Somnia movimiento idle expandido_24
+  - first:
+      213: 8674152008833077810
+    second: Somnia movimiento idle expandido_25
+  - first:
+      213: -6795917717709013956
+    second: Somnia movimiento idle expandido_26
+  - first:
+      213: -168952724590547073
+    second: Somnia movimiento idle expandido_27
+  - first:
+      213: 5442226575765329627
+    second: Somnia movimiento idle expandido_28
+  - first:
+      213: -3536732614472790211
+    second: Somnia movimiento idle expandido_29
+  - first:
+      213: 8671087187694501588
+    second: Somnia movimiento idle expandido_30
+  - first:
+      213: 6022343728523925120
+    second: Somnia movimiento idle expandido_31
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Somnia movimiento idle expandido_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 288
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731437057ff4d4d4685a17854c0b9bee
+      internalID: 6753451152031479499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle expandido_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 288
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f711dac523436c848a4513e7caaf15bd
+      internalID: 4536909391326444940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle expandido_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 288
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c46a80c1d2be143a4fb0114f500bbc
+      internalID: 4248804424923303493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle expandido_3
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 288
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e257afcc0fe0fb14392227db37169150
+      internalID: 7719241278053989004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle expandido_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 247
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b51c1d2176391478c635072fdbdd34
+      internalID: -2398978304228333487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle expandido_5
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 247
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd1a7fb759fec946ad9d3fb546d0e90
+      internalID: 3738614720397407119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle expandido_6
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 247
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee91f3bf9b87e845b3981e4c9d9e9ce
+      internalID: 1892467431810707702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle expandido_7
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 247
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5299bdcd02c373f4198f0d06c77decd4
+      internalID: 8270775804398330666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle expandido_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 206
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c68a749951b2784d856712352f2b6d4
+      internalID: 4073976668799867017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle expandido_9
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 206
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ce97f973c0c3042a6b55b4a4d884e7
+      internalID: 1080843484593829565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle expandido_10
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 206
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cc0a380a94f9c45b3be4689ce50aee
+      internalID: -4330246886187428517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle expandido_11
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 206
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916bcb6780c628e46a6d73f0febd6e0b
+      internalID: 7407179514067875847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle expandido_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 165
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2430b38a5f2a7b44e91c5c85713a2ac5
+      internalID: -3285288355808692158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle expandido_13
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 165
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5aff2284c763184da1baa8eb7cdc26e
+      internalID: -4113265550427266664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle expandido_14
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 165
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82a299b189e4b644888a8582f50c920
+      internalID: 1399920830376251301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle expandido_15
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 165
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd01465f5ab9844ebb1606589fc0913
+      internalID: 202690477737058844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle expandido_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 124
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061b6388fee65994888e44ef8e37d1a9
+      internalID: 8496286721541541734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle expandido_17
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 124
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c54ca77f8c5d524cba2d4b00323582c
+      internalID: 4984342684397856922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle expandido_18
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 124
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc682d07cba15f4899487eb1e2c6ee0
+      internalID: 5976593342215260888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle expandido_19
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 124
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1708c16ac84eafb44bde3e0a1231b2b2
+      internalID: 5613766781539266787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle expandido_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 83
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db10042c4c0533c49bccaa2ed247b947
+      internalID: 8315307830595252825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle expandido_21
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 83
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c6a944a5104f6428b755d1124481e4
+      internalID: 2195251599350695746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle expandido_22
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 83
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06989430441fab48abefaa2b414a71c
+      internalID: 4520229643456638459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle expandido_23
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 83
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f294f578465329849ac340fed9db753f
+      internalID: 2519583998964397266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle expandido_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 42
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f6f2a747f6a864a8ab0fd318426ff1
+      internalID: -1622123293132183116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle expandido_25
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 42
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6abfa5c1bb53d14aa21d97b95de43ee
+      internalID: 8674152008833077810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle expandido_26
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 42
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1d6037f1d5a5f40a31c32a3bfbfa1a
+      internalID: -6795917717709013956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle expandido_27
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 42
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b1369b041215443ab0f04dc5d13610
+      internalID: -168952724590547073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle expandido_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31be4a012269be14fb1ee63d0a0a90c4
+      internalID: 5442226575765329627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle expandido_29
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1ee0e557a4f0b4fb79b77d46f3d3a5
+      internalID: -3536732614472790211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle expandido_30
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72113a3679157f41bc4a15905616728
+      internalID: 8671087187694501588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle expandido_31
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c824a20cd045534e8f6eb87043e17fd
+      internalID: 6022343728523925120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

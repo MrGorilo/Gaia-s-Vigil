@@ -1,0 +1,2599 @@
+fileFormatVersion: 2
+guid: 89cc5ebb3045b1543837c31526586006
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 425212809868246684
+    second: Somnia movimiento idle animado sombras_0
+  - first:
+      213: -3484862686220881338
+    second: Somnia movimiento idle animado sombras_1
+  - first:
+      213: -2762167492321186883
+    second: Somnia movimiento idle animado sombras_2
+  - first:
+      213: 7371730201042429765
+    second: Somnia movimiento idle animado sombras_3
+  - first:
+      213: -5265129873040104593
+    second: Somnia movimiento idle animado sombras_4
+  - first:
+      213: 7773124462500046258
+    second: Somnia movimiento idle animado sombras_5
+  - first:
+      213: 8747345866536805326
+    second: Somnia movimiento idle animado sombras_6
+  - first:
+      213: 1534009133086166778
+    second: Somnia movimiento idle animado sombras_7
+  - first:
+      213: 1376258300129903617
+    second: Somnia movimiento idle animado sombras_8
+  - first:
+      213: -6616406632399912465
+    second: Somnia movimiento idle animado sombras_9
+  - first:
+      213: 905850112427396615
+    second: Somnia movimiento idle animado sombras_10
+  - first:
+      213: -6760451213403326315
+    second: Somnia movimiento idle animado sombras_11
+  - first:
+      213: 6753032284789587087
+    second: Somnia movimiento idle animado sombras_12
+  - first:
+      213: -1223149915223375960
+    second: Somnia movimiento idle animado sombras_13
+  - first:
+      213: -7070906558169058968
+    second: Somnia movimiento idle animado sombras_14
+  - first:
+      213: 4777623232926379858
+    second: Somnia movimiento idle animado sombras_15
+  - first:
+      213: -376933491364293134
+    second: Somnia movimiento idle animado sombras_16
+  - first:
+      213: 1710268172543203839
+    second: Somnia movimiento idle animado sombras_17
+  - first:
+      213: 7874772814658444818
+    second: Somnia movimiento idle animado sombras_18
+  - first:
+      213: -180492385087370851
+    second: Somnia movimiento idle animado sombras_19
+  - first:
+      213: -6603651879821269551
+    second: Somnia movimiento idle animado sombras_20
+  - first:
+      213: -1946832585032142866
+    second: Somnia movimiento idle animado sombras_21
+  - first:
+      213: -943820105808388258
+    second: Somnia movimiento idle animado sombras_22
+  - first:
+      213: 7765506885769810674
+    second: Somnia movimiento idle animado sombras_23
+  - first:
+      213: 1523619693495709459
+    second: Somnia movimiento idle animado sombras_24
+  - first:
+      213: 3513601392122180136
+    second: Somnia movimiento idle animado sombras_25
+  - first:
+      213: -4360485345741422050
+    second: Somnia movimiento idle animado sombras_26
+  - first:
+      213: -8413875843199588405
+    second: Somnia movimiento idle animado sombras_27
+  - first:
+      213: -874879052049541950
+    second: Somnia movimiento idle animado sombras_28
+  - first:
+      213: 3522861927633542398
+    second: Somnia movimiento idle animado sombras_29
+  - first:
+      213: 8737827655492855053
+    second: Somnia movimiento idle animado sombras_30
+  - first:
+      213: -5526156727564514418
+    second: Somnia movimiento idle animado sombras_31
+  - first:
+      213: 187315992208564669
+    second: Somnia movimiento idle animado sombras_32
+  - first:
+      213: 5818926257073377887
+    second: Somnia movimiento idle animado sombras_33
+  - first:
+      213: 3730417888229343978
+    second: Somnia movimiento idle animado sombras_34
+  - first:
+      213: -1287100253519331836
+    second: Somnia movimiento idle animado sombras_35
+  - first:
+      213: 4762702712805461761
+    second: Somnia movimiento idle animado sombras_36
+  - first:
+      213: 5455579887112170932
+    second: Somnia movimiento idle animado sombras_37
+  - first:
+      213: -4014796530509486271
+    second: Somnia movimiento idle animado sombras_38
+  - first:
+      213: 9150704135135441552
+    second: Somnia movimiento idle animado sombras_39
+  - first:
+      213: 2112542891718202131
+    second: Somnia movimiento idle animado sombras_40
+  - first:
+      213: -6508912660009250857
+    second: Somnia movimiento idle animado sombras_41
+  - first:
+      213: 1336660612662688246
+    second: Somnia movimiento idle animado sombras_42
+  - first:
+      213: -1405742722820672081
+    second: Somnia movimiento idle animado sombras_43
+  - first:
+      213: 3738516968568847226
+    second: Somnia movimiento idle animado sombras_44
+  - first:
+      213: 4282603987996207884
+    second: Somnia movimiento idle animado sombras_45
+  - first:
+      213: 9093644659558354291
+    second: Somnia movimiento idle animado sombras_46
+  - first:
+      213: -6834944206941700845
+    second: Somnia movimiento idle animado sombras_47
+  - first:
+      213: -4665889352371809680
+    second: Somnia movimiento idle animado sombras_48
+  - first:
+      213: 8497673316039653776
+    second: Somnia movimiento idle animado sombras_49
+  - first:
+      213: -2379676569528056431
+    second: Somnia movimiento idle animado sombras_50
+  - first:
+      213: -8658164669277337786
+    second: Somnia movimiento idle animado sombras_51
+  - first:
+      213: 4338002783318751826
+    second: Somnia movimiento idle animado sombras_52
+  - first:
+      213: 5997652566116240401
+    second: Somnia movimiento idle animado sombras_53
+  - first:
+      213: -8000703416067604234
+    second: Somnia movimiento idle animado sombras_54
+  - first:
+      213: -6522463816631517818
+    second: Somnia movimiento idle animado sombras_55
+  - first:
+      213: 4884136328264807801
+    second: Somnia movimiento idle animado sombras_56
+  - first:
+      213: -7594435713261478745
+    second: Somnia movimiento idle animado sombras_57
+  - first:
+      213: 5931028397674673940
+    second: Somnia movimiento idle animado sombras_58
+  - first:
+      213: 6567323278856578388
+    second: Somnia movimiento idle animado sombras_59
+  - first:
+      213: 4454237686700226040
+    second: Somnia movimiento idle animado sombras_60
+  - first:
+      213: 1553379821009569726
+    second: Somnia movimiento idle animado sombras_61
+  - first:
+      213: 7955615353590034640
+    second: Somnia movimiento idle animado sombras_62
+  - first:
+      213: 643913450493939808
+    second: Somnia movimiento idle animado sombras_63
+  - first:
+      213: 5547052821676979358
+    second: Somnia movimiento idle animado sombras_64
+  - first:
+      213: 8719621027358660628
+    second: Somnia movimiento idle animado sombras_65
+  - first:
+      213: 3454412490210688568
+    second: Somnia movimiento idle animado sombras_66
+  - first:
+      213: -4956413744517469370
+    second: Somnia movimiento idle animado sombras_67
+  - first:
+      213: 6139434209255945415
+    second: Somnia movimiento idle animado sombras_68
+  - first:
+      213: 3558987017021072006
+    second: Somnia movimiento idle animado sombras_69
+  - first:
+      213: 4215373846534564201
+    second: Somnia movimiento idle animado sombras_70
+  - first:
+      213: -6436419445369891250
+    second: Somnia movimiento idle animado sombras_71
+  - first:
+      213: -4180212019631405810
+    second: Somnia movimiento idle animado sombras_72
+  - first:
+      213: 8100296556662097381
+    second: Somnia movimiento idle animado sombras_73
+  - first:
+      213: -5752378699582073448
+    second: Somnia movimiento idle animado sombras_74
+  - first:
+      213: -1071465889079883409
+    second: Somnia movimiento idle animado sombras_75
+  - first:
+      213: -9152742281157502919
+    second: Somnia movimiento idle animado sombras_76
+  - first:
+      213: -4310821083592663833
+    second: Somnia movimiento idle animado sombras_77
+  - first:
+      213: 7223775463676929475
+    second: Somnia movimiento idle animado sombras_78
+  - first:
+      213: -1193630035991731738
+    second: Somnia movimiento idle animado sombras_79
+  - first:
+      213: 4205577438846171242
+    second: Somnia movimiento idle animado sombras_80
+  - first:
+      213: 7599783626741706022
+    second: Somnia movimiento idle animado sombras_81
+  - first:
+      213: 7409022652293101351
+    second: Somnia movimiento idle animado sombras_82
+  - first:
+      213: 321410302447650130
+    second: Somnia movimiento idle animado sombras_83
+  - first:
+      213: -4281165297364210940
+    second: Somnia movimiento idle animado sombras_84
+  - first:
+      213: -5921600144593327720
+    second: Somnia movimiento idle animado sombras_85
+  - first:
+      213: 3484593341404859692
+    second: Somnia movimiento idle animado sombras_86
+  - first:
+      213: -3401930375144513687
+    second: Somnia movimiento idle animado sombras_87
+  - first:
+      213: 1012003273787728530
+    second: Somnia movimiento idle animado sombras_88
+  - first:
+      213: 2763144805268369129
+    second: Somnia movimiento idle animado sombras_89
+  - first:
+      213: -8707845615779658183
+    second: Somnia movimiento idle animado sombras_90
+  - first:
+      213: -3975548160060514648
+    second: Somnia movimiento idle animado sombras_91
+  - first:
+      213: 2207098421898830509
+    second: Somnia movimiento idle animado sombras_92
+  - first:
+      213: 8496968677643377141
+    second: Somnia movimiento idle animado sombras_93
+  - first:
+      213: 8446136450931822152
+    second: Somnia movimiento idle animado sombras_94
+  - first:
+      213: -410820685856335827
+    second: Somnia movimiento idle animado sombras_95
+  - first:
+      213: 2518437322098365330
+    second: Somnia movimiento idle animado sombras_96
+  - first:
+      213: -5943631043184988715
+    second: Somnia movimiento idle animado sombras_97
+  - first:
+      213: 7439762620746834410
+    second: Somnia movimiento idle animado sombras_98
+  - first:
+      213: 5276653597962778690
+    second: Somnia movimiento idle animado sombras_99
+  - first:
+      213: 586559229692024238
+    second: Somnia movimiento idle animado sombras_100
+  - first:
+      213: -1150571284297968080
+    second: Somnia movimiento idle animado sombras_101
+  - first:
+      213: 4654849266774523576
+    second: Somnia movimiento idle animado sombras_102
+  - first:
+      213: -7647137299892265114
+    second: Somnia movimiento idle animado sombras_103
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 289
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc659051ea79cb4ab3be039702f8ee9
+      internalID: 425212809868246684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 289
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e9ec1ae5ab72f4cb8a05e6b6651121
+      internalID: -3484862686220881338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 289
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332655d4553febe41a8dc1c526a651ca
+      internalID: -2762167492321186883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_3
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 289
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7382ff31b516b445b476444448a09d6
+      internalID: 7371730201042429765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_4
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 289
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f98795ac32b6f4cab8d40f84b44576
+      internalID: -5265129873040104593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_5
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 289
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4272dc73b20a243a9bd3bd7ca7ba8e
+      internalID: 7773124462500046258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_6
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 289
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6c80ed2f319594d84d6845571535b8
+      internalID: 8747345866536805326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_7
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 289
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734a66ad4bd066543bacc3f688936f87
+      internalID: 1534009133086166778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_8
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 289
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1fda38544dfd64383566e2ef8365e4
+      internalID: 1376258300129903617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_9
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 289
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc19f13be825eac49a2c538fe0445e96
+      internalID: -6616406632399912465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_10
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 289
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93259d3b22976ce48b1cb4f06bd60e6e
+      internalID: 905850112427396615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_11
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 289
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8f177581bf8e949a1518a7fe936194
+      internalID: -6760451213403326315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_12
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 289
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500ae25ac274c1847918f9f05ebccf53
+      internalID: 6753032284789587087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 248
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b66c389bfbbe4540a44c3f60fa22755
+      internalID: -1223149915223375960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_14
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 248
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9470cdb43a5f04c998f9302c5701c7
+      internalID: -7070906558169058968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_15
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 248
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bb3cad83bbba749b1ecae0cfcc786e
+      internalID: 4777623232926379858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_16
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 248
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d427c484ee8bd141abdbafdc1ffd140
+      internalID: -376933491364293134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_17
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 248
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6a7f7ce4d042747869520b69e0ff1a
+      internalID: 1710268172543203839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_18
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 248
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3803f663918e945ba6d27df4c63a29
+      internalID: 7874772814658444818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_19
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 248
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e0ea8a64b355c44a4c1586cd488ed3
+      internalID: -180492385087370851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_20
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 248
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d973735dc80258b45a0793beb548a528
+      internalID: -6603651879821269551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_21
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 248
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6957040123d787843b318d9fbb719b0a
+      internalID: -1946832585032142866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_22
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 248
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce3ceb7d2e269e4b9c1f8bedf559866
+      internalID: -943820105808388258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_23
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 248
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89f318c5dc738648af6f8ffeb35991f
+      internalID: 7765506885769810674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_24
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 248
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4271f7534a74d479abaa3767fb7661
+      internalID: 1523619693495709459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_25
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 248
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec87fce3be5d2343b26ba0d732aa679
+      internalID: 3513601392122180136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 207
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2fb2dbc3aedbe4eab1ebc2931919d7
+      internalID: -4360485345741422050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_27
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 207
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cdcdf14c4601534ab85e664f44e1b0c
+      internalID: -8413875843199588405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_28
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 207
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e27faf43882f904cbbc4e13c98fdd17
+      internalID: -874879052049541950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_29
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 207
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325ea83302a01a54fb7ece4e1f65bb7a
+      internalID: 3522861927633542398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_30
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 207
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8738c1217201f1c43a60b770da9b5cc7
+      internalID: 8737827655492855053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_31
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 207
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc55dcfc317983d4c8a3728fe5614db7
+      internalID: -5526156727564514418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_32
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 207
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f7b0159e03ee04094001298039b65b
+      internalID: 187315992208564669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 207
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd050e35ca091d04b9df5a30da92fb7c
+      internalID: 5818926257073377887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_34
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 207
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ed78bfa1f9ed649a04e64a4c35d279
+      internalID: 3730417888229343978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_35
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 207
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a53569d62c5d24484daad97e627dd4
+      internalID: -1287100253519331836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_36
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 207
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95156d6147d3c15449a05b020e14b150
+      internalID: 4762702712805461761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_37
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 207
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1080d55819f5e264f9c5f51ac7d4f3fa
+      internalID: 5455579887112170932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_38
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 207
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1c66dcc50d2c848a105d99868bf09b
+      internalID: -4014796530509486271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_39
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 166
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c47b6ebd632ef04f90776ddb5e04b49
+      internalID: 9150704135135441552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_40
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 166
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32368ba927ae8df42a1ffb86b440e4c7
+      internalID: 2112542891718202131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_41
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 166
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fc8ab13ea5a6c4f92a32ae60e64bb1
+      internalID: -6508912660009250857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_42
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 166
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf0bc8aee865704587a7bdef80b69ea
+      internalID: 1336660612662688246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_43
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 166
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cad494ca3f89bb4b94cad076e20d4b9
+      internalID: -1405742722820672081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_44
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 166
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db516f6c67a65314296b7a4aca2c4fea
+      internalID: 3738516968568847226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_45
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 166
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e4d4b9fcd47bf41b222e60948ab64d
+      internalID: 4282603987996207884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_46
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 166
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08aea2feec3eb44193fc05893cfbbfd
+      internalID: 9093644659558354291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_47
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 166
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1bbaa31e88446419a9608fc666b838
+      internalID: -6834944206941700845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_48
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 166
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad191d5711b3854abf304f88c3357e1
+      internalID: -4665889352371809680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_49
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 166
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aee1b806aa83b44188c594cb3fd64f2
+      internalID: 8497673316039653776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_50
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 166
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dce9c410194b2543b7ae839f6d3444f
+      internalID: -2379676569528056431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_51
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 166
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f550f2d0f413a844af5e37032869b09
+      internalID: -8658164669277337786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_52
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 125
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705e8e32808824b48955e69dd058879d
+      internalID: 4338002783318751826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_53
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 125
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c8494d98db2194c930095e82e185f2
+      internalID: 5997652566116240401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_54
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 125
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f183bb78b70214383343d722dd2068
+      internalID: -8000703416067604234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_55
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 125
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2155b36e42614d45afd25da043ccb40
+      internalID: -6522463816631517818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_56
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 125
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0aa214c3a96134da0c47fb60a285eb
+      internalID: 4884136328264807801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_57
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 125
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b1c1073f22d38499b60617eea612e8
+      internalID: -7594435713261478745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_58
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 125
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fbb1ae136d01343bd9d5fdb42687b6
+      internalID: 5931028397674673940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_59
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 125
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09404e8825c65034996bf0de8c6c417d
+      internalID: 6567323278856578388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_60
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 125
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c030ea5d52c0c404ab5d137b318c22b2
+      internalID: 4454237686700226040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_61
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 125
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ad1016a0d5bd046a1bd64c02581d99
+      internalID: 1553379821009569726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_62
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 125
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a281a18b9d16764488ea2c2e17fa65c3
+      internalID: 7955615353590034640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_63
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 125
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71157cca31c1bc045870aaba86b43a43
+      internalID: 643913450493939808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_64
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 125
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0708f637df41cc46959fb123da3d453
+      internalID: 5547052821676979358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_65
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 84
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fedd1287aacb972499ac89b43adbc81f
+      internalID: 8719621027358660628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_66
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 84
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6f0dd6b3277604884ebdc73a6c6d83
+      internalID: 3454412490210688568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_67
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 84
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d7f045d5274c2469b1a9aea1898351
+      internalID: -4956413744517469370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_68
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 84
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567c32569fa453c44be7c3d72ad2c0b6
+      internalID: 6139434209255945415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_69
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 84
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3f882e3ca01e54aab626686eccbe8b
+      internalID: 3558987017021072006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_70
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 84
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9f18eb0df9d494b83390f5e0b9e0de
+      internalID: 4215373846534564201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_71
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 84
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1679b04df04b41247a5ab4cac41b6d7d
+      internalID: -6436419445369891250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_72
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 84
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96573eadca6d3a64cbf261a587cc8636
+      internalID: -4180212019631405810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_73
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 84
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114247b785132af4292c7c662bf94dd5
+      internalID: 8100296556662097381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_74
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 84
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbf7e5ee0d0b3f45b51db06838b0d2a
+      internalID: -5752378699582073448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_75
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 84
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccfddeddc3d2a04080ebcb9e7b4b4c2
+      internalID: -1071465889079883409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_76
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 84
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e269f37cba19d54ab14b1ec6b46605c
+      internalID: -9152742281157502919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_77
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 84
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7caf7abbfde0c4ba68e432269c0d64
+      internalID: -4310821083592663833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_78
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 43
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1decc61084789458a4e89675b0ad3f
+      internalID: 7223775463676929475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_79
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 43
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e974852dc436c434289646ababf2f4aa
+      internalID: -1193630035991731738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_80
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 43
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d21d749fad0e2c4081a6153e564d793
+      internalID: 4205577438846171242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_81
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 43
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00b6847edfe8a744a608fdbae92940c
+      internalID: 7599783626741706022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_82
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 43
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7f37b681240d54caee720339eeafbc
+      internalID: 7409022652293101351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_83
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 43
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e29037e3b472940a22a349c2908883
+      internalID: 321410302447650130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_84
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 43
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6b6808790f6d448b69dce08593e4b8
+      internalID: -4281165297364210940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_85
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 43
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170af890bc2179f46bfe541412653242
+      internalID: -5921600144593327720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_86
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 43
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba531c2780baf848b7908a06924314c
+      internalID: 3484593341404859692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_87
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 43
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46e885148a2f834d878d0c217d6ee85
+      internalID: -3401930375144513687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_88
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 43
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42e150c54a7f7d4cb0d3083f1b58ca8
+      internalID: 1012003273787728530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_89
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 43
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718c8e5d972e33a4dbc2b6c4272c2c17
+      internalID: 2763144805268369129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_90
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 43
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483ade47257fa8c40b4b41ce4601204b
+      internalID: -8707845615779658183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_91
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0947987539b2cf6498604d81f2f6b2fd
+      internalID: -3975548160060514648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_92
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 2
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb4ed7becb46704791a9125ca338a2c
+      internalID: 2207098421898830509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_93
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 2
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63fe725875cdd34ea56c1fe97a6ecb3
+      internalID: 8496968677643377141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_94
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6542884cdb4d144be283d2b4cf5ad1
+      internalID: 8446136450931822152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_95
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 2
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1f50757a88596479bf309cf6183caf
+      internalID: -410820685856335827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_96
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaaf3623bfbab1e47ba2c4d733dbe05f
+      internalID: 2518437322098365330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_97
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 2
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e602766204b837c4f9255eb793f004a1
+      internalID: -5943631043184988715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_98
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 2
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee6563914eda404485bc90323093b2f
+      internalID: 7439762620746834410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_99
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 2
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae8ba0a9d277554d826fa22facaef83
+      internalID: 5276653597962778690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_100
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 2
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0123f74ad94fa34991cef4a7bb601aa
+      internalID: 586559229692024238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_101
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 2
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf57cd8e7ccbc8b4db6067e82ff4916c
+      internalID: -1150571284297968080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_102
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 2
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac8978b76f95824a862b661ffe95250
+      internalID: 4654849266774523576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Somnia movimiento idle animado sombras_103
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 2
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877045736dbc3f14a85540af7a53553f
+      internalID: -7647137299892265114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
